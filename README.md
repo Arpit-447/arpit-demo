@@ -1,2 +1,3 @@
 # arpit-demo
-This is my firsT Git Repository.
+This is my first Git Repository.
+Author - Arpit Pal
